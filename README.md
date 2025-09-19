@@ -55,7 +55,7 @@ Copy code
 ## ⚙️ Setup & Installation
 
 ### 1️⃣ Clone the Repository
-```bash
+bash
 git clone https://github.com/yourusername/language-id-translator.git
 cd language-id-translator
 2️⃣ Create a Virtual Environment (optional)
